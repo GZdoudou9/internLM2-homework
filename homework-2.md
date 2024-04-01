@@ -5,8 +5,10 @@
 ![001-作业1 2024-04-01 112426](https://github.com/GZdoudou9/internLM2-homework/assets/129025105/ceeb3da0-086c-4adc-8b1d-ece334e08cac)
 
 
++ 2. 熟悉 huggingface 下载功能，使用 huggingface_hub python 包，下载 InternLM2-Chat-7B 的 config.json 文件到本地（需截图下载过程）
+![002 download  2024-04-01 164304](https://github.com/GZdoudou9/internLM2-homework/assets/129025105/88c87bcd-f18f-46c8-ae31-424dd57d0898)
 
-
+![002-2  download  2024-04-01 164304](https://github.com/GZdoudou9/internLM2-homework/assets/129025105/e19851a5-69c5-44d4-9e46-49085a862906)
 
 
 + 4. 完成 Lagent 工具调用 数据分析 Demo 部署（需截图）
