@@ -12,3 +12,5 @@
 + 4. 完成 Lagent 工具调用 数据分析 Demo 部署（需截图）
 
 ![004  lagent demo 2024-04-01 153025](https://github.com/GZdoudou9/internLM2-homework/assets/129025105/181e4fb1-b830-44fc-968d-3c5d20b9f6fa)
+
+![004-3  lagent demo ](https://github.com/GZdoudou9/internLM2-homework/assets/129025105/cd2b205c-e6ef-4f95-b9df-769299867b50)
