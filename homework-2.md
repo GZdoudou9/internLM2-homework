@@ -9,6 +9,19 @@
 ![002 download  2024-04-01 164304](https://github.com/GZdoudou9/internLM2-homework/assets/129025105/88c87bcd-f18f-46c8-ae31-424dd57d0898)
 
 ![002-2  download  2024-04-01 164304](https://github.com/GZdoudou9/internLM2-homework/assets/129025105/e19851a5-69c5-44d4-9e46-49085a862906)
++ 3.完成 浦语·灵笔2 的 图文创作 及 视觉问答 部署（需截图）
+  浦语·灵笔2 的 图文创作
+![003-作业-01-002 screencapture-127-0-0-1-6006-2024-04-02-13_49_42](https://github.com/GZdoudou9/internLM2-homework/assets/129025105/6f6ab5f3-767e-4e18-8503-a174fef1965e)
+![003-作业-screencapture-127-0-0-1-6006-2024-04-02-13_40_08](https://github.com/GZdoudou9/internLM2-homework/assets/129025105/80b405a9-bac3-48f6-81bb-f19f81e37d95)
+
+
+  视觉问答 部署
+![003 -2 屏幕截图 2024-04-02 135736](https://github.com/GZdoudou9/internLM2-homework/assets/129025105/1899fe52-2dda-4888-9ffc-da0c221391ba)
+
+让lm2 看看X光片
+![003-2-2 2024-04-02 140128](https://github.com/GZdoudou9/internLM2-homework/assets/129025105/5eff6250-a652-4589-b8ee-661c90a1f998)
+
+
 
 
 + 4. 完成 Lagent 工具调用 数据分析 Demo 部署（需截图）
