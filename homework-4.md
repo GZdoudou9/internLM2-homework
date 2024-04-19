@@ -5,11 +5,12 @@
 训练自己的小助手认知（记录复现过程并截图）
 
 1.安装环境在intern-studio上面
-    ``` 
+```
 # 如果你是在 InternStudio 平台，则从本地 clone 一个已有 pytorch 的环境：
 # pytorch    2.0.1   py3.10_cuda11.7_cudnn8.5.0_0
 
 studio-conda xtuner0.1.17
+
 ![image](https://github.com/GZdoudou9/internLM2-homework/assets/129025105/e7615798-6856-4f64-a531-69a0c7886bf4)
 
 # 如果你是在其他平台：
@@ -32,7 +33,7 @@ cd /root/xtuner0117/xtuner
 
 # 从源码安装 XTuner
 pip install -e '.[all]'
-    ```
+```
 
 
 
