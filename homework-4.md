@@ -53,6 +53,8 @@ pip install -e '.[all]'
 由于数据原因过拟合，训练出来了一个魔怔小助手
 ![8c07c6114b55cee77bd52214608071a](https://github.com/GZdoudou9/internLM2-homework/assets/129025105/22403c30-d9a2-48c0-9889-c6ef9ec9a6a3)
 
+等了一段时间后，小助手，又不太魔怔了
+![image](https://github.com/GZdoudou9/internLM2-homework/assets/129025105/5bd2e940-fb33-4450-b151-77247d0819ee)
 
 
 进阶作业
