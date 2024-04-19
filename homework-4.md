@@ -11,8 +11,6 @@
 
 studio-conda xtuner0.1.17
 
-![image](https://github.com/GZdoudou9/internLM2-homework/assets/129025105/e7615798-6856-4f64-a531-69a0c7886bf4)
-
 # 如果你是在其他平台：
 # conda create --name xtuner0.1.17 python=3.10 -y
 
@@ -34,6 +32,7 @@ cd /root/xtuner0117/xtuner
 # 从源码安装 XTuner
 pip install -e '.[all]'
 ```
+![image](https://github.com/GZdoudou9/internLM2-homework/assets/129025105/4eb3a1fd-f3ee-471b-b541-1168633c7b95)
 
 
 
