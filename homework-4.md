@@ -34,9 +34,27 @@ pip install -e '.[all]'
 ```
 ![image](https://github.com/GZdoudou9/internLM2-homework/assets/129025105/4eb3a1fd-f3ee-471b-b541-1168633c7b95)
 
+2. 前期准备
+2.1 数据集准备
+为了让模型能够让模型成我们想要的样子，我们就需要通过在微调数据集中大量掺杂这部分的数据。
+![3](https://github.com/GZdoudou9/internLM2-homework/assets/129025105/d45c8ff7-fafd-4358-b335-57268e87e098)
+
+2.2模型准备
+![4](https://github.com/GZdoudou9/internLM2-homework/assets/129025105/e0b97f6c-0872-464f-88e8-b96066511f77)
+
+2.3 配置文件选择
+2.4 模型训练  
+![image](https://github.com/GZdoudou9/internLM2-homework/assets/129025105/ad20194e-75d8-4ba8-acf6-3597c5154b5d)
+2.5 模型转换、整合、测试
+![image](https://github.com/GZdoudou9/internLM2-homework/assets/129025105/1c9e8397-11e2-471e-a6d1-531f457497c9)
 
 
-  
+2.6最后对话展示：
+由于数据原因过拟合，训练出来了一个魔怔小助手
+![8c07c6114b55cee77bd52214608071a](https://github.com/GZdoudou9/internLM2-homework/assets/129025105/22403c30-d9a2-48c0-9889-c6ef9ec9a6a3)
+
+
+
 进阶作业
 将自我认知的模型上传到 OpenXLab，并将应用部署到 OpenXLab（优秀学员必做）
 复现多模态微调（优秀学员必做）
